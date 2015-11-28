@@ -1,1 +1,3 @@
-Rewrite  is interesting
+Rewrite  is interesting!
+rewrite is a advantural galgame
+not a none in java

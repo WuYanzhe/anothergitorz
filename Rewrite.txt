@@ -4,4 +4,10 @@ In chihaya line I even feel more sorrowful to kotoli...
 kodalo no baka
 coin_kotoli
 sanhua
+<<<<<<< Updated upstream
+=======
+>>>>>>> featurel
+
+It seems that git stash is just like save/load in galgame
+>>>>>>> Stashed changes
 

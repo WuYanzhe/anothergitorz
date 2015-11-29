@@ -2,4 +2,9 @@ Rewrite  is interesting!
 feel sorrowful...kotoli...
 In chihaya line I even feel more sorrowful to kotoli...
 kodalo no baka
+<<<<<<< HEAD
 coin_kotoli
+=======
+
+sanhua
+>>>>>>> featurel
